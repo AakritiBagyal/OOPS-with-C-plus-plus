@@ -1,3 +1,0 @@
-This program will show us what will happen if we don't include the header file " <iostream> " and run the program.
-Header files include functions like I/O functions and other functions too, as we can clearly see that our output is showing that 'endl' and 'cout' are undeclared, which tells us that without header files our program will show errors on basic I/O functions.
-
