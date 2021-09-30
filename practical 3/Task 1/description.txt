@@ -1,1 +1,3 @@
-
+This program shows us what will happen if we don't include header file.
+As the output shows, cout function isn't declared, this is because the header file contains functions like standard I/O functions including other functions. 
+There are different header files in different languages that have some functions which make the program understand what to do.
