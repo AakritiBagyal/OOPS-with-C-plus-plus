@@ -1,0 +1,2 @@
+In this task we have to use scope resolution operator [::](SRO).
+We have used "std::" for basic I/O functions.
